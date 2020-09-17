@@ -1,5 +1,5 @@
 Package: bis557
-Title: Package Encapsulating Work for BIS 557
+Title: Package encapsulating work for BIS 557
 Version: 0.0.1
 Authors@R: 
     person(given = "Jacob",
