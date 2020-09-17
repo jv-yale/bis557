@@ -7,5 +7,4 @@
 #' grab_coeffs(fit)
 #' @export
 grab_coeffs<-function(lm_ob){
-  lm_ob$coeff
-}
+  lm_ob$coeff}
