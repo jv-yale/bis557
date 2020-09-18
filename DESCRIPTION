@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Jacob",
            family = "VanHouten",
            role = c("aut", "cre"),
-           email = "jacob.p.vanhouten@gmail.com",
+           email = "jacob.@yale.edu",
            comment = c(ORCID = "httP://orcid.org/0000-0003-4111-7195"))
 Description: This package holds the exercise answer, write-ups and functions for BIS 557.
 License: LGPL (>= 2.1)
