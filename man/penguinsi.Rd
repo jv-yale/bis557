@@ -6,7 +6,7 @@
 \title{Date from Penguins, with imputed values}
 \description{
 The penguins data set after imputing all the missing values using the {missForest} package.
-Note: Even imputed outcomes. Bad juju.
+Note: Even imputed outcomes.
 }
 \references{
 See the palmerpenguins::penguins documentation for information about the values.
