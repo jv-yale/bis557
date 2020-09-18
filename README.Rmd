@@ -16,18 +16,10 @@ knitr::opts_chunk$set(
 # bis557
 
 <!-- badges: start -->
-status](https://travis-ci.com/jv-yale/bis557.svg?branch=master)](https://travis-ci.com/jv-yale/bis557)
+[![Travis build status](https://travis-ci.com/jv-yale/bis557.svg?branch=master)](https://travis-ci.com/jv-yale/bis557)
 <!-- badges: end -->
 
 The goal of bis557 is to make some things demonstrable.
-
-## Installation
-
-You can install the released version of bis557 from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("bis557")
-```
 
 And the development version from [GitHub](https://github.com/) with:
 
