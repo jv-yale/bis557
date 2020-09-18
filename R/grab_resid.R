@@ -7,6 +7,5 @@
 #' grab_resids(fit)
 #' @export
 grab_resids<-function(lm_ob){
-  browser()
   lm_ob$residuals
 }
