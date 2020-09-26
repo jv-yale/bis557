@@ -8,7 +8,7 @@ This is a simple function to grab the residuals of a linear model}
 grab_resids(lm_ob)
 }
 \arguments{
-\item{lm_obj}{the linear model object created by the lm() function}
+\item{lm_ob}{the linear model object created by the lm() function}
 }
 \description{
 Grab the residuals
